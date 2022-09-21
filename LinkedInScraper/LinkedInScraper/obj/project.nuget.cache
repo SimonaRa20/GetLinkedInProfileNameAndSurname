@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ltdcjnHPg0iYc6C1a6zrTJGgzRX0VYNNNMJ9M0HBvzCRZd26nAvFZQWAjIeElDhsOA3RevpcNZ6gsnOHqkjuzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\simut\\Desktop\\LinkedInScraper\\LinkedInScraper\\LinkedInScraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\simut\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}

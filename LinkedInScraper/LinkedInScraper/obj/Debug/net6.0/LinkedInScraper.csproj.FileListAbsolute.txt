@@ -1,0 +1,17 @@
+C:\Users\simut\Desktop\LinkedInScraper\LinkedInScraper\bin\Debug\net6.0\LinkedInScraper.exe
+C:\Users\simut\Desktop\LinkedInScraper\LinkedInScraper\bin\Debug\net6.0\LinkedInScraper.deps.json
+C:\Users\simut\Desktop\LinkedInScraper\LinkedInScraper\bin\Debug\net6.0\LinkedInScraper.runtimeconfig.json
+C:\Users\simut\Desktop\LinkedInScraper\LinkedInScraper\bin\Debug\net6.0\LinkedInScraper.dll
+C:\Users\simut\Desktop\LinkedInScraper\LinkedInScraper\bin\Debug\net6.0\LinkedInScraper.pdb
+C:\Users\simut\Desktop\LinkedInScraper\LinkedInScraper\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\simut\Desktop\LinkedInScraper\LinkedInScraper\obj\Debug\net6.0\LinkedInScraper.csproj.AssemblyReference.cache
+C:\Users\simut\Desktop\LinkedInScraper\LinkedInScraper\obj\Debug\net6.0\LinkedInScraper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simut\Desktop\LinkedInScraper\LinkedInScraper\obj\Debug\net6.0\LinkedInScraper.AssemblyInfoInputs.cache
+C:\Users\simut\Desktop\LinkedInScraper\LinkedInScraper\obj\Debug\net6.0\LinkedInScraper.AssemblyInfo.cs
+C:\Users\simut\Desktop\LinkedInScraper\LinkedInScraper\obj\Debug\net6.0\LinkedInScraper.csproj.CoreCompileInputs.cache
+C:\Users\simut\Desktop\LinkedInScraper\LinkedInScraper\obj\Debug\net6.0\LinkedInScraper.csproj.CopyComplete
+C:\Users\simut\Desktop\LinkedInScraper\LinkedInScraper\obj\Debug\net6.0\LinkedInScraper.dll
+C:\Users\simut\Desktop\LinkedInScraper\LinkedInScraper\obj\Debug\net6.0\refint\LinkedInScraper.dll
+C:\Users\simut\Desktop\LinkedInScraper\LinkedInScraper\obj\Debug\net6.0\LinkedInScraper.pdb
+C:\Users\simut\Desktop\LinkedInScraper\LinkedInScraper\obj\Debug\net6.0\LinkedInScraper.genruntimeconfig.cache
+C:\Users\simut\Desktop\LinkedInScraper\LinkedInScraper\obj\Debug\net6.0\ref\LinkedInScraper.dll
